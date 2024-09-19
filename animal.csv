@@ -1,9 +1,0 @@
-,animal,age,visits,priority
-a,cat,12.0,1,yes
-b,dog,34.0,3,no
-c,snake,,5,no
-d,bulldog,23.0,2,yes
-e,zebra,56.0,3,yes
-f,giraffe,,3,no
-g,dog,2.0,2,yes
-h,cat,12.0,4,no
